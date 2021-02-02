@@ -2,11 +2,11 @@
 -------------------
 #مریم چاوشی
 -------------------
--[github](https://github.com/maryamchavoshy)
--[PNU_3991_AR](https://github.com/maryamchavoshy/PNU_3991_AR)
--[Resume]()
--[SOP]()
--[Patchwork]()
+- [github](https://github.com/maryamchavoshy)
+- [PNU_3991_AR](https://github.com/maryamchavoshy/PNU_3991_AR)
+- [Resume]()
+- [SOP]()
+- [Patchwork]()
 --------------------
 #ارزیابی عمومی
 -[ارزیابی رزومه و انگیزه نامه]()
